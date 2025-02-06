@@ -1,0 +1,9 @@
+JumlahPeserta: 2
+JumlahSoal: 5
+
+Peserta:
+12,John,A,B,C,D,E
+34,Jane,B,A,C,D,E
+
+KunciJawaban:
+A,B,C,D,E

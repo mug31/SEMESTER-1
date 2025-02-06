@@ -1,0 +1,3 @@
+Peserta:09,bas,a,b,a,a,a
+KunciJawaban:a,a,a,a,a
+Peserta:12,qw,A,B,B,D,A,B

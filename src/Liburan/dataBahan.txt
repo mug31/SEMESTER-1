@@ -1,0 +1,4 @@
+Nama Bahan  |   Harga Bahan  |   Volume Bahan(mL/gr)
+kopi	|	120000.0	|	500.0
+susu	|	300000.0	|	1000.0
+gula aren	|	100000.0	|	500.0
